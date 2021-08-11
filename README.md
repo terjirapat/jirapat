@@ -1,2 +1,2 @@
 # Jirapat Atikomtrirat
-Ter
+This is my portfolio
